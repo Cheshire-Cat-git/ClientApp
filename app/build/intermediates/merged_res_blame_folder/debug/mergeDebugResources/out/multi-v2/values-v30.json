@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.client_app-mergeDebugResources-36:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Davit\\.gradle\\caches\\8.13\\transforms\\8a4f9773d5e7b9ce3ea6620cc1f99b0f\\transformed\\material3-release\\res\\values-v30\\values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}
